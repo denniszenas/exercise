@@ -1,0 +1,17 @@
+/* styles.css */
+
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+#blue36 {
+    color: #0000ff;
+    font-size: 36px;
+}
+.even {
+    background-color: #90ee90;
+    font-weight: bold;
+}
+.s24 {
+    font-size: 24px;
+}
